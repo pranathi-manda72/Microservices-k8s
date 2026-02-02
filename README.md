@@ -27,3 +27,4 @@ Each microservice is deployed independently for scalability and reliability
 
 **OUTPUT**
 ![image alt](https://github.com/pranathi-manda72/Microservices-k8s/blob/15f6108ede159c3efd519d55a417e32f3412f454/Screenshot%202026-01-31%20222110.png)
+![image alt](https://github.com/pranathi-manda72/Microservices-k8s/blob/0e8c55a6abc20a0ae9627c7a7598b110fc1c87ae/Screenshot%202026-01-31%20222147.png)
